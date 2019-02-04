@@ -1,4 +1,4 @@
-package  com.topperstuition.testpaper
+package  com.projects.aryan.testpaper
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
