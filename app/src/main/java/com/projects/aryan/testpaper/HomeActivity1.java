@@ -74,7 +74,7 @@ public class HomeActivity1 extends AppCompatActivity {
 
         webView.setWebViewClient(new MyClient(webView));
 
-//        callRetrofitForWebViewApi();
+        callRetrofitForWebViewApi();
     }
 
     private void callApiForDrawerItem() {
